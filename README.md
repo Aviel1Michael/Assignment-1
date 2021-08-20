@@ -45,6 +45,6 @@
 * The reason being, our mobile phones are basically our computers and with the integration of 5-G, it can be more productive for a CEO or a Manager to manage the affairs of an entire company from a mobile device.  
 
 * This service would utilize easy mobility as opposed to sitting at a desk. There is also a significant decrease in the cost between a computer hardware and a mobile phone.
-* websites used www.thebettersoftwarecompany.com
-* investopedia.com
+* websites used [You link here](https://www.investopedia.com/)
+* [you link here](www.thebettersoftwarecompany.com)
 *
