@@ -1,6 +1,6 @@
-#THE BETTER SOFTWARE COMPANY (THEBETTERSOFTWARECOMPANY.COM)
+# THE BETTER SOFTWARE COMPANY (THEBETTERSOFTWARECOMPANY.COM)
 
-##Overview and Origin
+## Overview and Origin
 
 *The Better Software Company is a company that defines the true definition of FinTech. They run under the motto, providing quality technology and exceptional customer service. In this statement, we see the embodiment of FinTech. The financial part being the customer service, as customers equate to money and value and the technology part equates to the technical aspect of FinTech.
 
@@ -38,7 +38,7 @@
 
 *According to their website and because it is a local company in Canada, which is the first one of its kind to implement some of this technology, The Better Software Company is doing fairly well on the market but there is always room for improvement.
 
-##Recommendations
+## Recommendations
 
 *My recommendation for The Better Software Company is that they would create a cellphone application.
 
